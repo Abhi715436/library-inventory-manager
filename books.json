@@ -1,0 +1,14 @@
+[
+    {
+        "title": "t",
+        "author": "author",
+        "isbn": "001",
+        "status": "issued"
+    },
+    {
+        "title": "hell",
+        "author": "author",
+        "isbn": "002",
+        "status": "available"
+    }
+]

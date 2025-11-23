@@ -1,0 +1,22 @@
+
+
+## 👨‍🏫 Course Information
+
+Mini Project – Library Inventory Manager  
+Programming for Problem Solving Using Python  
+K.R. Mangalam University  
+
+---
+
+## 🚀 Future Improvements (optional)
+
+- Add delete book option  
+- Add sorting (by title or author)  
+- Add colored CLI  
+- Add unit tests (pytest or unittest)  
+
+---
+
+## 🙌 Credits
+
+Made by: *<Abhinandan>*  
